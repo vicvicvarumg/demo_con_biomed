@@ -1,0 +1,8 @@
+#define APB1_ADD	0x4000_000
+
+uint8_t myvar = 0x00;
+
+main()
+{
+
+}
