@@ -4,4 +4,6 @@ Clase del 31 de Julio 2024
 
 - Edson
 - Diana
-
+- Juan Diego
+- Lillian
+- Ruano
